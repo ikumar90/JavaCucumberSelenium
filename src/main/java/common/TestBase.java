@@ -6,7 +6,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import pages.NewsPage;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.MalformedURLException;

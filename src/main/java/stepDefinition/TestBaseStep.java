@@ -6,8 +6,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
-import pages.NewsPage;
-import pages.googleSearchPage;
+
 
 public class TestBaseStep {
 

@@ -1,6 +1,0 @@
-common\TestBase.class
-pages\GoogleSearchPage.class
-runner\CucumberRunner.class
-stepDefinition\TestBaseStep.class
-pages\HomePage.class
-utils\FileReaderHelper.class
